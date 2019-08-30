@@ -12,7 +12,7 @@ public class Sorting {
      * time complexity O(squareroot(n))
      * space complexity O(1)
      */
-    public static <T extends Number & Comparable<T>> int jumpSearch(T[] array, T searchKey){
+    public static <T extends Comparable<T>> int jumpSearch(T[] array, T searchKey){
         //declare local variables
         int arraySize = array.length;
         int step = (int) Math.sqrt(Double.parseDouble(String.valueOf(arraySize)));
@@ -32,6 +32,7 @@ public class Sorting {
             }
 
             if (array[low].compareTo(searchKey) < 0 && array[high - 1].compareTo(searchKey) > 0){
+                //frisking bounds using linear search
                 for(int i = low + 1; i < high; i++) {
                     if (array[i].compareTo(searchKey) == 0) {
                         index = i;
@@ -49,6 +50,5 @@ public class Sorting {
 
         return index;
     }
-
 
 }
