@@ -1,11 +1,5 @@
 package algorithms.Searching;
 
-
-import com.sun.tools.doclets.formats.html.SourceToHTMLConverter;
-
-import java.util.ArrayList;
-import java.util.Collection;
-
 public class Sorting {
 
     /**
