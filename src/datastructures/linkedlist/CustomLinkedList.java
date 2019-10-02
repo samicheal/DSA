@@ -1,4 +1,4 @@
-package datastructures;
+package datastructures.linkedlist;
 
 public class CustomLinkedList {
 
@@ -25,6 +25,7 @@ public class CustomLinkedList {
 
         //print linked list
         test.printList();
+
     }
 
     private Node head;
@@ -76,6 +77,15 @@ public class CustomLinkedList {
         }
         newNode.next = prevNode.next;
         prevNode.next = newNode;
+    }
+
+    /** This function appends a new node at the end of the list.
+     * Time complexity of append() is O(n) where n is the size
+     * of the linked list
+     */
+    public void append(int new_data)
+    {
+
     }
 
         /**

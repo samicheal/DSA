@@ -1,6 +1,6 @@
 package algorithms.Searching;
 
-public class Sorting {
+public class JumpSearch {
 
     /**
      * time complexity O(squareroot(n))
