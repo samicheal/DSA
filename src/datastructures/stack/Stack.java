@@ -1,16 +1,17 @@
 package datastructures.stack;
 
 import exceptions.OverflowException;
-
-import java.lang.reflect.Array;
+import exceptions.UnderflowException;
 
 public class Stack<T extends Character> {
 
-    public static void main(String [] args) throws OverflowException {
+    public static void main(String [] args) throws OverflowException, UnderflowException {
         Stack augmend = new Stack(10);
         augmend.push('{');
-        if(augmend.isEmpty())
-            System.out.println("Stack is currently unfilled");
+        augmend.push('(');
+        augmend.push('[');
+        System.out.println(augmend.pop());
+        System.out.println(augmend.pop());
     }
 
     private int max = 1000;
@@ -39,8 +40,25 @@ public class Stack<T extends Character> {
             array[++pointer] = element;
     }
 
+    /**
+     * pops last element in stack`
+     * @return
+     * @throws UnderflowException
+     */
+    public Character pop() throws UnderflowException {
+        if (pointer < 0)
+            throw new UnderflowException("Stack overflow");
+        return array[pointer--];
+    }
 
 
-
+    /**
+     * method peeks into last elemnent in stack
+     */
+    public Character peek() throws UnderflowException {
+        if(pointer < 0)
+            throw new UnderflowException("Stack overflow");
+        return array[pointer];
+    }
 
 }
