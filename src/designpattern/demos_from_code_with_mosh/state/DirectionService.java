@@ -1,4 +1,4 @@
-package designpattern.statepattern.specimen;
+package designpattern.demos_from_code_with_mosh.state;
 
 public class DirectionService {
     private TravelMode travelMode;

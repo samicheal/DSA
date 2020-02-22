@@ -21,9 +21,8 @@ public class SortingProblems {
     }
 
     /* program to test above function */
-    public static void main(String [] args)
-    {
-        int a[] = { 1, 2, 4, 5, 6, 7, 8};
+    public static void main(String [] args) {
+        int a[] = {1, 2, 4, 5, 6, 7, 8};
         int miss = getMissingNo(a, 5);
         System.out.println(miss);
     }

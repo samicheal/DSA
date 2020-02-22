@@ -6,7 +6,7 @@ public class JumpSearch {
      * time complexity O(squareroot(n))
      * space complexity O(1)
      */
-    public static <T extends Comparable<T>> int jumpSearch(T[] array, T searchKey){
+    public static<T extends Comparable<T>> int jumpSearch(T[] array, T searchKey){
         //declare local variables
         int arraySize = array.length;
         int step = (int) Math.sqrt(Double.parseDouble(String.valueOf(arraySize)));
