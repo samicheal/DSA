@@ -1,6 +1,6 @@
-package designpattern.statepattern;
+package designpattern.excercise_solutions.statepattern;
 
-import designpattern.statepattern.solution.Travel;
+import designpattern.excercise_solutions.statepattern.solution.Travel;
 
 public class DirectionService {
 

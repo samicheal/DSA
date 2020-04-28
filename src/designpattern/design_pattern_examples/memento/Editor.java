@@ -1,4 +1,4 @@
-package designpattern.demos_from_code_with_mosh.memento;
+package designpattern.design_pattern_examples.memento;
 
 public class Editor {
   private String content;

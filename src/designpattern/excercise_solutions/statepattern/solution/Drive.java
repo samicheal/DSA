@@ -1,4 +1,4 @@
-package designpattern.statepattern.solution;
+package designpattern.excercise_solutions.statepattern.solution;
 
 
 public class Drive implements Travel<Object> {

@@ -1,4 +1,9 @@
 package designpattern.excercise_solutions.iteratorpattern;
 
-public interface Iterator {
+import designpattern.design_pattern_examples.iterator.Product;
+
+public interface Iterator<T extends Product> {
+    boolean hasNext();
+    void next();
+    T current();
 }

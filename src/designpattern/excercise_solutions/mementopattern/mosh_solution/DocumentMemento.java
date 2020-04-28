@@ -1,4 +1,4 @@
-package designpattern.mementopattern.mosh_solution;
+package designpattern.excercise_solutions.mementopattern.mosh_solution;
 
 public class DocumentMemento {
   private final String content;

@@ -1,6 +1,6 @@
-package designpattern.statepattern.solution;
+package designpattern.excercise_solutions.statepattern.solution;
 
-import designpattern.statepattern.DirectionService;
+import designpattern.excercise_solutions.statepattern.DirectionService;
 
 public class StateMain {
 

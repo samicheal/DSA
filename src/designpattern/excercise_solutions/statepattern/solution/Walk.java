@@ -1,4 +1,4 @@
-package designpattern.statepattern.solution;
+package designpattern.excercise_solutions.statepattern.solution;
 
 public class Walk implements Travel<Object> {
 

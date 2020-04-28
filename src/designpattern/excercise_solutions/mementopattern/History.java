@@ -1,4 +1,4 @@
-package designpattern.mementopattern;
+package designpattern.excercise_solutions.mementopattern;
 
 import java.util.ArrayList;
 import java.util.List;

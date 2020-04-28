@@ -1,4 +1,4 @@
-package designpattern.mementopattern;
+package designpattern.excercise_solutions.mementopattern;
 
 public class DocumentState {
 

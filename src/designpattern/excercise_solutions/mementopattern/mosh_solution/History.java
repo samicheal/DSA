@@ -1,4 +1,4 @@
-package designpattern.mementopattern.mosh_solution;
+package designpattern.excercise_solutions.mementopattern.mosh_solution;
 
 import java.util.ArrayDeque;
 import java.util.Deque;
