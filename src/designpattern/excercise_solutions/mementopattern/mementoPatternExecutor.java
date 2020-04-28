@@ -25,7 +25,5 @@ public class mementoPatternExecutor {
         System.out.println("Document Content :: " + document.getContent());
         System.out.println("Document Font Name :: " + document.getFontName());
         System.out.println("Document Font Size :: " + document.getFontSize());
-
     }
-
 }
