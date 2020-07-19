@@ -2,35 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0297ff0-6357-464e-93f9-83f761e7a704" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/datastructures/Trees/Tree.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/datastructures/Trees/TreeExcecution.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/ExecutiveFramework/CallTwitterApi.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/ExecutiveFramework/ExceutorDemo.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/designpattern/demos_from_code_with_mosh/memento/Editor.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/designpattern/demos_from_code_with_mosh/memento/EditorState.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/designpattern/demos_from_code_with_mosh/memento/History.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/designpattern/demos_from_code_with_mosh/state/DirectionService.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/designpattern/demos_from_code_with_mosh/state/TravelMode.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/designpattern/mementopattern/Document.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/designpattern/mementopattern/DocumentState.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/designpattern/mementopattern/FontNameState.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/designpattern/mementopattern/FontSizeState.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/designpattern/mementopattern/History.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/designpattern/mementopattern/NullState.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/designpattern/mementopattern/StateManager.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/designpattern/mementopattern/mementoPatternExecutor.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/designpattern/mementopattern/mosh_solution/DocumentMemento.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/designpattern/mementopattern/mosh_solution/History.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/designpattern/statepattern/DirectionService.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/designpattern/statepattern/solution/Cycle.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/designpattern/statepattern/solution/Drive.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/designpattern/statepattern/solution/StateMain.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/designpattern/statepattern/solution/Transit.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/designpattern/statepattern/solution/Travel.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/designpattern/statepattern/solution/Walk.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/ExecutiveFramework/CallTwitterApi.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/ExecutiveFramework/ExceutorDemo.java" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,8 +17,8 @@
       <file leaf-file-name="Tree.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/datastructures/Trees/Tree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="39" column="33" lean-forward="false" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
+            <state relative-caret-position="225">
+              <caret line="53" column="8" lean-forward="false" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="30" />
               <folding>
                 <element signature="e#1258#1259#0" expanded="true" />
                 <element signature="e#1295#1296#0" expanded="true" />
@@ -170,7 +142,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="806" />
@@ -192,6 +164,8 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -222,8 +196,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -548,14 +520,16 @@
       <workItem from="1595048556658" duration="107000" />
       <workItem from="1595085433160" duration="49000" />
       <workItem from="1595111299504" duration="140000" />
+      <workItem from="1595119375184" duration="230000" />
+      <workItem from="1595153163012" duration="246000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="123945000" />
+    <option name="totallyTimeSpent" value="124421000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="806" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -566,10 +540,10 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29353234" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22014925" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.45646766" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24606581" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2532189" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -734,6 +708,72 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructures/Trees/Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1258#1259#0" expanded="true" />
+            <element signature="e#1295#1296#0" expanded="true" />
+            <element signature="e#1552#1553#0" expanded="true" />
+            <element signature="e#1590#1591#0" expanded="true" />
+            <element signature="e#1851#1852#0" expanded="true" />
+            <element signature="e#1890#1891#0" expanded="true" />
+            <element signature="e#2140#2141#0" expanded="true" />
+            <element signature="e#2175#2176#0" expanded="true" />
+            <element signature="e#2925#2926#0" expanded="true" />
+            <element signature="e#2997#2998#0" expanded="true" />
+            <element signature="e#3260#3261#0" expanded="true" />
+            <element signature="e#3287#3288#0" expanded="true" />
+            <element signature="e#3439#3440#0" expanded="true" />
+            <element signature="e#3481#3482#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructures/Trees/TreeExcecution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="24" lean-forward="false" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+          <folding>
+            <marker date="1595037237632" expanded="true" signature="115:307" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructures/Trees/Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1258#1259#0" expanded="true" />
+            <element signature="e#1295#1296#0" expanded="true" />
+            <element signature="e#1552#1553#0" expanded="true" />
+            <element signature="e#1590#1591#0" expanded="true" />
+            <element signature="e#1851#1852#0" expanded="true" />
+            <element signature="e#1890#1891#0" expanded="true" />
+            <element signature="e#2140#2141#0" expanded="true" />
+            <element signature="e#2175#2176#0" expanded="true" />
+            <element signature="e#2925#2926#0" expanded="true" />
+            <element signature="e#2997#2998#0" expanded="true" />
+            <element signature="e#3260#3261#0" expanded="true" />
+            <element signature="e#3287#3288#0" expanded="true" />
+            <element signature="e#3439#3440#0" expanded="true" />
+            <element signature="e#3481#3482#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructures/Trees/TreeExcecution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="24" lean-forward="false" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+          <folding>
+            <marker date="1595037237632" expanded="true" signature="115:307" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/datastructures/Trees/TreeExcecution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -817,18 +857,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/datastructures/stack/DigestAuthFIilterGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructures/stack/DigestAuthFIilterGenerator.java" />
     <entry file="file://$PROJECT_DIR$/src/datastructures/Trees/Tree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="39" column="33" lean-forward="false" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
+        <state relative-caret-position="225">
+          <caret line="53" column="8" lean-forward="false" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="30" />
           <folding>
             <element signature="e#1258#1259#0" expanded="true" />
             <element signature="e#1295#1296#0" expanded="true" />
